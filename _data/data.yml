@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yahui Sun
-    tagline: Research Fellow, Nanyang Technological University
+    tagline: Research Fellow, School of Computer Science and Engineering, Nanyang Technological University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -72,7 +72,8 @@ career-profile:
       (with the full scholarships awarded by the University of Melbourne). 
       I do quite enjoy the graph researches. 
       
-      Currently, I'm a research fellow in the Nanyang Technological University, 
+      Currently, I'm a research fellow in the School of Computer Science and Engineering
+      at the Nanyang Technological University, 
       wishing to find a tenure position in the next few years (I'm a bit paranoid on this). I have written some papers, 
       but only few are published at very decent places, such as IEEE/ACM Transactions on Networking. 
       I'm now trying to increase the number of such publications.
