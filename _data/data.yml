@@ -24,19 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Mandarin
-        level: Native
 
-      - idiom: English
-        level: Professional
-
-      - idiom:  C++
-        level: Professional
-        
-      - idiom:  MATLAB
-        level: Professional
-        
     interests:
       - item: Graph analytics
         link:
@@ -52,6 +40,22 @@ sidebar:
       
       - item: Data engineering
         link:
+
+
+    languages:
+      - idiom: Mandarin
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom:  C++
+        level: Professional
+        
+      - idiom:  MATLAB
+        level: Professional
+        
+    
         
 career-profile:
     title: Career Profile
