@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yahui Sun
+    name: Dr. Yahui Sun
     tagline: Research Fellow, School of Computer Science and Engineering, Nanyang Technological University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
