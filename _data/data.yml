@@ -3,198 +3,107 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Yahui Sun
+    tagline: Research Fellow, Nanyang Technological University
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: yahui.sun@anu.edu.au
+    #phone: (+61) 0452630211
+    #website: cecs.anu.edu.au/people/yahui-sun #do not add http://
+    #linkedin: alandoe
+    #github: YahuiSun
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Mandarin
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom:  C++
         level: Professional
-
+        
+      - idiom:  MATLAB
+        level: Professional
+        
     interests:
-      - item: Climbing
+      - item: Graph analytics
         link:
 
-      - item: Snowboarding
+      - item: Graph mining
         link:
 
-      - item: Cooking
+      - item: Computer networks
         link:
-
+      
+      - item: Networking
+        link:
+      
+      - item: Data engineering
+        link:
+        
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
 
-      Second paragraph if required.
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      Motivated by China's first crewed space mission in 2003, I studied aeraspace engineering in the Harbin Institute of Technology, 
+      which is the leading university in this area in China, for my bachelor and master degrees. 
+      I have been awarded several First-level Scholarships and a National Scholarship in Harbin. However, after meeting many young intellectuals there, I realized that I may not be gifted 
+      enough for contributing to China's great space endeavour. 
+      As a result, I changed my research interests to graph analytics and graph mining in the University of Melbourne, 
+      where I studied the Steiner tree problems in graphs for my PhD degree 
+      (with the full scholarships awarded by the University of Melbourne). 
+      I do quite enjoy the graph researches. Currently, I'm a research fellow in the Nanyang Technological University, 
+      wishing to find a tenure position in the next few years (I'm a bit paranoid on this). I have written some papers, 
+      but only few are published at very decent places, such as IEEE/ACM Transactions on Networking. 
+      I'm now trying to increase the number of such publications.
+      
+      
+      
+        
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
+    - role: Research fellow, Nanyang Technological University, Singapore
+      time: 2019 - Present
+    - role: Postdoctoral fellow, Australian National University, Australia
+      time: 2018 - 2019
+    - role: Ph.D. in Steiner trees, University of Melbourne, Australia
+      time: 2014 - 2018
+    - role: M.S. in Aerospace Engineering, Harbin Institute of Technology, China
       time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    - role: B.S. in Aerospace Engineering, Harbin Institute of Technology, China
+      time: 2008 - 2012
 
-          - Bullet point
-          - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+      The full publication list is at my <a href="https://scholar.google.com/citations?user=SbEGWMkAAAAJ&hl=en" target="_blank" rel="nofollow">Google Scholar</a>. The related codes and datasets are at my <a href="https://github.com/YahuiSun" target="_blank" rel="nofollow">GitHub</a>. 
+      
+      
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." IEEE/ACM Transactions on Networking (2019)
+      
+      - title: Yahui Sun, and Saman Halgamuge. "Minimum-cost heterogeneous node placement in wireless sensor networks." IEEE Access (2019).
+      
+      - title: Yahui Sun, Chenkai Ma, and Saman Halgamuge. "The node-weighted Steiner tree approach to identify elements of cancer-related signaling pathways." International Conference on Bioinformatics (Best Paper Awards; published in BMC Bioinformatics) (2017).
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - title: Yahui Sun, Pathima Nusrath Hameed, Karin Verspoor, and Saman Halgamuge. "A physarum-inspired prizecollecting steiner tree approach to identify subnetworks for drug repositioning." International Conference on Bioinformatics (published in BMC Systems Biology) (2016).
+ 
+      - title: Yahui Sun, and Saman Halgamuge. "Fast algorithms inspired by physarum polycephalum for node weighted steiner tree problem with multiple terminals." In 2016 IEEE Congress on Evolutionary Computation (CEC), pp. 3254-3260. IEEE, 2016.
+       
+      - title: Yahui Sun, Yunhai Geng, and Shuang Wang. "Analysis and calibration of star sensor's image plane displacement." Infrared and Laser Engineering (2014).
+      
+      - title: Yahui Sun, Yingying Xiao, and Yunhai Geng. "On-orbit calibration of star sensor based on a new lens distortion model." In Proceedings of the 32nd Chinese Control Conference, pp. 4989-4994. IEEE, 2013.
