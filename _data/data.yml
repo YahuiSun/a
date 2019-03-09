@@ -107,7 +107,7 @@ publications:
     # be sure to align authors: and conference: with title:, otherwise there will be parsing errors
     
       - title: The Art of Computer Programming
-        authors: Donald E. Knuth
+        authors: Donald E. Knuth This is my [CV](assets/CV_Yahui_SUN.pdf).
         conference: Addison-Wesley, 1968 This is my [CV](assets/CV_Yahui_SUN.pdf).
         
         
