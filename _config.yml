@@ -8,6 +8,9 @@ baseurl: '/personal-website' #change it according to your repository name
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
+plugins:
+  - jekyll-seo-tag # https://help.github.com/en/articles/search-engine-optimization-for-github-pages
+
 # Tracker
 analytics: UA-83979019-1
 
