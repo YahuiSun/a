@@ -157,7 +157,7 @@ p {
 
 .main-wrapper {
     background: #fff;
-    padding: 0px; // it's 60px previously
+    padding: 60px; // it's 60px previously; this is the margin on the left
     padding-right: 340px;
     .section-title {
         text-transform: uppercase;
