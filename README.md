@@ -62,3 +62,7 @@ This project is licensed under the [MIT license](LICENSE.txt).
 ## Yahui Notes
 
 To change the repository name: Go to _config.yml : baseurl: '/personal-website' #change it according to your repository name
+
+Change the sequence of content in the sidebar: Go to _includes/sidebar.html
+
+Change the sequence of main content: Go to index.html
