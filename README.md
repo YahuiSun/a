@@ -58,3 +58,7 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 ## License
 
 This project is licensed under the [MIT license](LICENSE.txt).
+
+## Yahui Notes
+
+To change the repository name: Go to _config.yml : baseurl: '/personal-website' #change it according to your repository name
