@@ -77,7 +77,7 @@ career-profile:
       at the Nanyang Technological University, 
       wishing to find a tenure position in the next few years (I'm a bit paranoid on this). I have written some papers, 
       but only few are published at very decent places, such as IEEE/ACM Transactions on Networking. 
-      I'm now trying to increase the number of such publications.
+      I'm now trying to increase the number of such publications. 
       
       This is my [CV](assets/CV_Yahui_SUN.pdf).
       
@@ -101,6 +101,10 @@ publications:
     title: Selected Publications
     intro: |
       The full publication list is at my <a href="https://scholar.google.com/citations?user=SbEGWMkAAAAJ&hl=en" target="_blank" rel="nofollow">Google Scholar</a>. The related codes and datasets are at my <a href="https://github.com/YahuiSun" target="_blank" rel="nofollow">GitHub</a>. 
+      
+      I look forward to research collaborations!
+      <span style="color:red">some **This is Red Bold.** text</span>
+      
       
       
     papers:
