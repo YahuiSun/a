@@ -66,3 +66,5 @@ To change the repository name: Go to _config.yml : baseurl: '/personal-website' 
 Change the sequence of content in the sidebar: Go to _includes/sidebar.html
 
 Change the sequence of main content: Go to index.html
+
+Add Facebook like button: Enable <!--{% include fb-like.html %}--> in index.html
