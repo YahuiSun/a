@@ -65,7 +65,7 @@ career-profile:
       which is the leading university in this area in China, for my bachelor and master degrees. 
       I have been awarded several First-level Scholarships and a National Scholarship in Harbin. 
       
-      However, after meeting many young intellectuals there, I realized that I may not be gifted 
+      However, I slowly realized that I may not be suitable or gifted 
       enough for contributing to China's great space endeavour. 
       As a result, I changed my research interests to graph analytics and graph mining in the University of Melbourne, 
       where I studied the Steiner tree problems in graphs for my PhD 
@@ -114,6 +114,8 @@ publications:
         authors: <a href="https://yahuisun.github.io/personal-website/assets/mhnp2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/minimum-cost-heterogeneous-node-placement" target="_blank" rel="nofollow">[Codes&Datasets]</a>
       
       - title: Yahui Sun, Chenkai Ma, and Saman Halgamuge. "The node-weighted Steiner tree approach to identify elements of cancer-related signaling pathways." International Conference on Bioinformatics (Best Paper Awards; published in BMC Bioinformatics) (2017).
+        authors: <a href="https://yahuisun.github.io/personal-website/assets/tnst2017.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/node-weighted-protein-protein-interaction-network" target="_blank" rel="nofollow">[Codes&Datasets]</a>
+      
 
       - title: Yahui Sun, Pathima Nusrath Hameed, Karin Verspoor, and Saman Halgamuge. "A physarum-inspired prizecollecting steiner tree approach to identify subnetworks for drug repositioning." International Conference on Bioinformatics (published in BMC Systems Biology) (2016).
  
