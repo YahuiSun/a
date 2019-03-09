@@ -108,7 +108,7 @@ publications:
     
       - title: The Art of Computer Programming
         authors: "Donald E. Knuth This is my [CV](assets/CV_Yahui_SUN.pdf)."
-        conference: Addison-Wesley, 1968 This is my [CV](assets/CV_Yahui_SUN.pdf).
+        conference: "Addison-Wesley, 1968 This is my [CV](assets/CV_Yahui_SUN.pdf)".
         
         
       - title: Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." IEEE/ACM Transactions on Networking (2019)
