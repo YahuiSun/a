@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yahui.sun@anu.edu.au
-    phone: (+61) 0452630211
+    email: yahui.sun@ntu.edu.sg
+    #phone: (+61) 0452630211
     #website: cecs.anu.edu.au/people/yahui-sun #do not add http://
     #linkedin: alandoe
     github: YahuiSun
