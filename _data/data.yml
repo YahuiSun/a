@@ -111,7 +111,7 @@ publications:
     
     # be sure to align authors: and conference: with title:, otherwise there will be parsing errors   
         
-      - title: Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <span style="color:red">**I look forward to research collaborations!**</span> <span style="color:black">**IEEE/ACM Transactions on Networking**</span> (2019)
+      - title: Yahui Sun, Marcus Brazil, Doreen Thomas, and Saman Halgamuge. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." <span style="color:black">**IEEE/ACM Transactions on Networking**</span> (2019)
         authors: <a href="https://yahuisun.github.io/personal-website/assets/tfha2019.pdf" target="_blank" rel="nofollow">[PDF]</a> <a href="https://github.com/YahuiSun/The-M-instances-and-FGW-codes-for-PCSTP" target="_blank" rel="nofollow">[Codes&Datasets]</a>
       
       
